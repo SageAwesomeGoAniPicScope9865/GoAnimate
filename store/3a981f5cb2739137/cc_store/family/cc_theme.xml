@@ -152,8 +152,8 @@
 	<choice>0x640F0F</choice>
 	<choice>0x360202</choice>
 	<choice>0x000000</choice>
-	</color>
-    <color r="ccBackMajor" component_type="GoBehindBody" enable="Y">
+    </color>
+    <color r="ccBackMajor" component_type="GoBehindBody" enable="N">
         <choice>0xAE0057</choice>
         <choice>0x53A8DF</choice>
         <choice>0xEC9EC5</choice>
@@ -163,7 +163,7 @@
         <choice>0x4A6028</choice>
         <choice>0x000000</choice>
     </color>
-    <color r="ccBackMinor" component_type="GoBehindBody" enable="Y">
+    <color r="ccBackMinor" component_type="GoBehindBody" enable="N">
         <choice>0xFFFFFF</choice>
         <choice>0x555555</choice>
         <choice>0xBC6A70</choice>
